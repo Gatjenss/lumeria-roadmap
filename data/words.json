@@ -1,0 +1,960 @@
+[
+  {
+    "id": "w-privet",
+    "ru": "приве́т",
+    "es": [
+      "hola"
+    ],
+    "pos": "interj",
+    "example": {
+      "ru": "Привет! Как дела́?",
+      "es": "¡Hola! ¿Cómo estás?"
+    },
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1",
+    "freq": 1,
+    "verified": false
+  },
+  {
+    "id": "w-spasibo",
+    "ru": "спаси́бо",
+    "es": [
+      "gracias"
+    ],
+    "pos": "interj",
+    "example": {
+      "ru": "Большо́е спаси́бо!",
+      "es": "¡Muchas gracias!"
+    },
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1",
+    "freq": 2,
+    "verified": false
+  },
+  {
+    "id": "w-pozhaluysta",
+    "ru": "пожа́луйста",
+    "es": [
+      "por favor",
+      "de nada"
+    ],
+    "pos": "adv",
+    "example": {
+      "ru": "Дайте воды́, пожа́луйста.",
+      "es": "Deme agua, por favor."
+    },
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1",
+    "freq": 3,
+    "verified": false
+  },
+  {
+    "id": "w-do-svidaniya",
+    "ru": "до свида́ния",
+    "es": [
+      "adiós",
+      "hasta la vista"
+    ],
+    "pos": "phrase",
+    "example": {
+      "ru": "До свида́ния, до за́втра!",
+      "es": "¡Adiós, hasta mañana!"
+    },
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1",
+    "freq": 4,
+    "verified": false
+  },
+  {
+    "id": "w-da",
+    "ru": "да",
+    "es": [
+      "sí"
+    ],
+    "pos": "particle",
+    "example": {
+      "ru": "Да, я зна́ю.",
+      "es": "Sí, lo sé."
+    },
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1",
+    "freq": 5,
+    "verified": false
+  },
+  {
+    "id": "w-net",
+    "ru": "нет",
+    "es": [
+      "no"
+    ],
+    "pos": "particle",
+    "example": {
+      "ru": "Нет, спаси́бо.",
+      "es": "No, gracias."
+    },
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1",
+    "freq": 6,
+    "verified": false
+  },
+  {
+    "id": "w-voda",
+    "ru": "вода́",
+    "es": [
+      "agua"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Я пью во́ду.",
+      "es": "Bebo agua."
+    },
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "freq": 20,
+    "verified": false
+  },
+  {
+    "id": "w-khleb",
+    "ru": "хлеб",
+    "es": [
+      "pan"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Я покупа́ю хлеб.",
+      "es": "Compro pan."
+    },
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "freq": 40,
+    "verified": false
+  },
+  {
+    "id": "w-moloko",
+    "ru": "молоко́",
+    "es": [
+      "leche"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "example": {
+      "ru": "Я люблю́ молоко́.",
+      "es": "Me gusta la leche."
+    },
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "freq": 45,
+    "verified": false
+  },
+  {
+    "id": "w-chay",
+    "ru": "чай",
+    "es": [
+      "té"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Я пью чай с лимо́ном.",
+      "es": "Bebo té con limón."
+    },
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "freq": 50,
+    "verified": false
+  },
+  {
+    "id": "w-kofe",
+    "ru": "ко́фе",
+    "es": [
+      "café"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Я пью ко́фе у́тром.",
+      "es": "Bebo café por la mañana."
+    },
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "freq": 55,
+    "verified": false,
+    "notes": "Indeclinable; en ruso es masculino."
+  },
+  {
+    "id": "w-sup",
+    "ru": "суп",
+    "es": [
+      "sopa"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Суп горя́чий.",
+      "es": "La sopa está caliente."
+    },
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "freq": 90,
+    "verified": false
+  },
+  {
+    "id": "w-dom",
+    "ru": "дом",
+    "es": [
+      "casa",
+      "edificio"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Мой дом большо́й.",
+      "es": "Mi casa es grande."
+    },
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "freq": 15,
+    "verified": false
+  },
+  {
+    "id": "w-okno",
+    "ru": "окно́",
+    "es": [
+      "ventana"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "example": {
+      "ru": "Откро́йте окно́, пожа́луйста.",
+      "es": "Abra la ventana, por favor."
+    },
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "freq": 100,
+    "verified": false
+  },
+  {
+    "id": "w-stol",
+    "ru": "стол",
+    "es": [
+      "mesa"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Кни́га лежи́т на столе́.",
+      "es": "El libro está sobre la mesa."
+    },
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "freq": 95,
+    "verified": false
+  },
+  {
+    "id": "w-semya",
+    "ru": "семья́",
+    "es": [
+      "familia"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "У меня́ больша́я семья́.",
+      "es": "Tengo una familia grande."
+    },
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "freq": 30,
+    "verified": false
+  },
+  {
+    "id": "w-mama",
+    "ru": "ма́ма",
+    "es": [
+      "mamá"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Моя́ ма́ма рабо́тает.",
+      "es": "Mi mamá trabaja."
+    },
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "freq": 35,
+    "verified": false
+  },
+  {
+    "id": "w-papa",
+    "ru": "па́па",
+    "es": [
+      "papá"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Мой па́па до́ма.",
+      "es": "Mi papá está en casa."
+    },
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "freq": 60,
+    "verified": false
+  },
+  {
+    "id": "w-brat",
+    "ru": "брат",
+    "es": [
+      "hermano"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Мой брат студе́нт.",
+      "es": "Mi hermano es estudiante."
+    },
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "freq": 70,
+    "verified": false
+  },
+  {
+    "id": "w-sestra",
+    "ru": "сестра́",
+    "es": [
+      "hermana"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Моя́ сестра́ живёт в Москве́.",
+      "es": "Mi hermana vive en Moscú."
+    },
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "freq": 75,
+    "verified": false
+  },
+  {
+    "id": "w-drug",
+    "ru": "друг",
+    "es": [
+      "amigo"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Он мой друг.",
+      "es": "Él es mi amigo."
+    },
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "freq": 65,
+    "verified": false
+  },
+  {
+    "id": "w-vremya",
+    "ru": "вре́мя",
+    "es": [
+      "tiempo"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "example": {
+      "ru": "У меня́ нет вре́мени.",
+      "es": "No tengo tiempo."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A1",
+    "freq": 10,
+    "verified": false
+  },
+  {
+    "id": "w-den",
+    "ru": "день",
+    "es": [
+      "día"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "До́брый день!",
+      "es": "¡Buenas tardes!"
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A1",
+    "freq": 12,
+    "verified": false
+  },
+  {
+    "id": "w-nedelya",
+    "ru": "неде́ля",
+    "es": [
+      "semana"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Я рабо́таю всю неде́лю.",
+      "es": "Trabajo toda la semana."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A1",
+    "freq": 85,
+    "verified": false
+  },
+  {
+    "id": "w-god",
+    "ru": "год",
+    "es": [
+      "año"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Это хоро́ший год.",
+      "es": "Este es un buen año."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A1",
+    "freq": 11,
+    "verified": false
+  },
+  {
+    "id": "w-segodnya",
+    "ru": "сего́дня",
+    "es": [
+      "hoy"
+    ],
+    "pos": "adv",
+    "example": {
+      "ru": "Сего́дня я до́ма.",
+      "es": "Hoy estoy en casa."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A1",
+    "freq": 25,
+    "verified": false
+  },
+  {
+    "id": "w-zavtra",
+    "ru": "за́втра",
+    "es": [
+      "mañana"
+    ],
+    "pos": "adv",
+    "example": {
+      "ru": "За́втра я рабо́таю.",
+      "es": "Mañana trabajo."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A1",
+    "freq": 48,
+    "verified": false
+  },
+  {
+    "id": "w-vchera",
+    "ru": "вчера́",
+    "es": [
+      "ayer"
+    ],
+    "pos": "adv",
+    "example": {
+      "ru": "Вчера́ я был в кино́.",
+      "es": "Ayer estuve en el cine."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A1",
+    "freq": 52,
+    "verified": false
+  },
+  {
+    "id": "w-osen",
+    "ru": "о́сень",
+    "es": [
+      "otoño"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "О́сенью идёт дождь.",
+      "es": "En otoño llueve."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A2",
+    "freq": 300,
+    "verified": false
+  },
+  {
+    "id": "w-pogoda",
+    "ru": "пого́да",
+    "es": [
+      "clima",
+      "tiempo (meteorológico)"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Сего́дня хоро́шая пого́да.",
+      "es": "Hoy hace buen tiempo."
+    },
+    "tags": [
+      "fechas y tiempo"
+    ],
+    "level": "A2",
+    "freq": 200,
+    "verified": false
+  },
+  {
+    "id": "w-gorod",
+    "ru": "го́род",
+    "es": [
+      "ciudad"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Москва́ — большо́й го́род.",
+      "es": "Moscú es una ciudad grande."
+    },
+    "tags": [
+      "viajes"
+    ],
+    "level": "A1",
+    "freq": 18,
+    "verified": false
+  },
+  {
+    "id": "w-ulitsa",
+    "ru": "у́лица",
+    "es": [
+      "calle"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Я иду́ по у́лице.",
+      "es": "Voy por la calle."
+    },
+    "tags": [
+      "transporte"
+    ],
+    "level": "A1",
+    "freq": 80,
+    "verified": false
+  },
+  {
+    "id": "w-mashina",
+    "ru": "маши́на",
+    "es": [
+      "coche"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "У меня́ есть маши́на.",
+      "es": "Tengo un coche."
+    },
+    "tags": [
+      "transporte"
+    ],
+    "level": "A1",
+    "freq": 60,
+    "verified": false
+  },
+  {
+    "id": "w-magazin",
+    "ru": "магази́н",
+    "es": [
+      "tienda"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Магази́н откры́т.",
+      "es": "La tienda está abierta."
+    },
+    "tags": [
+      "compras"
+    ],
+    "level": "A1",
+    "freq": 45,
+    "verified": false
+  },
+  {
+    "id": "w-dengi",
+    "ru": "де́ньги",
+    "es": [
+      "dinero"
+    ],
+    "pos": "noun",
+    "example": {
+      "ru": "У меня́ нет де́нег.",
+      "es": "No tengo dinero."
+    },
+    "tags": [
+      "compras"
+    ],
+    "level": "A1",
+    "freq": 35,
+    "verified": false,
+    "notes": "Solo plural."
+  },
+  {
+    "id": "w-rabota",
+    "ru": "рабо́та",
+    "es": [
+      "trabajo"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Моя́ рабо́та интере́сная.",
+      "es": "Mi trabajo es interesante."
+    },
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A1",
+    "freq": 22,
+    "verified": false
+  },
+  {
+    "id": "w-vrach",
+    "ru": "врач",
+    "es": [
+      "médico"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Мой брат врач.",
+      "es": "Mi hermano es médico."
+    },
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "freq": 250,
+    "verified": false
+  },
+  {
+    "id": "w-kniga",
+    "ru": "кни́га",
+    "es": [
+      "libro"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Я чита́ю кни́гу.",
+      "es": "Leo un libro."
+    },
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "freq": 55,
+    "verified": false
+  },
+  {
+    "id": "w-pismo",
+    "ru": "письмо́",
+    "es": [
+      "carta"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "example": {
+      "ru": "Я пишу́ письмо́.",
+      "es": "Escribo una carta."
+    },
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A1",
+    "freq": 110,
+    "verified": false
+  },
+  {
+    "id": "w-vopros",
+    "ru": "вопро́с",
+    "es": [
+      "pregunta"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "У меня́ есть вопро́с.",
+      "es": "Tengo una pregunta."
+    },
+    "tags": [
+      "opiniones"
+    ],
+    "level": "A1",
+    "freq": 28,
+    "verified": false
+  },
+  {
+    "id": "w-yazyk",
+    "ru": "язы́к",
+    "es": [
+      "idioma",
+      "lengua"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "example": {
+      "ru": "Я учу́ ру́сский язы́к.",
+      "es": "Estudio ruso."
+    },
+    "tags": [
+      "opiniones"
+    ],
+    "level": "A1",
+    "freq": 58,
+    "verified": false
+  },
+  {
+    "id": "w-zhizn",
+    "ru": "жизнь",
+    "es": [
+      "vida"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "example": {
+      "ru": "Жизнь прекра́сна.",
+      "es": "La vida es hermosa."
+    },
+    "tags": [
+      "emociones"
+    ],
+    "level": "A2",
+    "freq": 14,
+    "verified": false
+  },
+  {
+    "id": "w-bolshoy",
+    "ru": "большо́й",
+    "es": [
+      "grande"
+    ],
+    "pos": "adj",
+    "example": {
+      "ru": "У нас большо́й дом.",
+      "es": "Tenemos una casa grande."
+    },
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "freq": 32,
+    "verified": false
+  },
+  {
+    "id": "w-malenkiy",
+    "ru": "ма́ленький",
+    "es": [
+      "pequeño"
+    ],
+    "pos": "adj",
+    "example": {
+      "ru": "Это ма́ленькая ко́мната.",
+      "es": "Esta es una habitación pequeña."
+    },
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "freq": 72,
+    "verified": false
+  },
+  {
+    "id": "w-khoroshiy",
+    "ru": "хоро́ший",
+    "es": [
+      "bueno"
+    ],
+    "pos": "adj",
+    "example": {
+      "ru": "Это хоро́ший фильм.",
+      "es": "Esta es una buena película."
+    },
+    "tags": [
+      "opiniones"
+    ],
+    "level": "A1",
+    "freq": 16,
+    "verified": false
+  },
+  {
+    "id": "w-plokhoy",
+    "ru": "плохо́й",
+    "es": [
+      "malo"
+    ],
+    "pos": "adj",
+    "example": {
+      "ru": "Сего́дня плоха́я пого́да.",
+      "es": "Hoy hace mal tiempo."
+    },
+    "tags": [
+      "opiniones"
+    ],
+    "level": "A1",
+    "freq": 95,
+    "verified": false
+  },
+  {
+    "id": "w-novyy",
+    "ru": "но́вый",
+    "es": [
+      "nuevo"
+    ],
+    "pos": "adj",
+    "example": {
+      "ru": "У меня́ но́вый телефо́н.",
+      "es": "Tengo un teléfono nuevo."
+    },
+    "tags": [
+      "compras"
+    ],
+    "level": "A1",
+    "freq": 38,
+    "verified": false
+  },
+  {
+    "id": "w-krasivyy",
+    "ru": "краси́вый",
+    "es": [
+      "bonito",
+      "hermoso"
+    ],
+    "pos": "adj",
+    "example": {
+      "ru": "Како́й краси́вый го́род!",
+      "es": "¡Qué ciudad tan bonita!"
+    },
+    "tags": [
+      "opiniones"
+    ],
+    "level": "A1",
+    "freq": 120,
+    "verified": false
+  },
+  {
+    "id": "w-ochen",
+    "ru": "о́чень",
+    "es": [
+      "muy"
+    ],
+    "pos": "adv",
+    "example": {
+      "ru": "Я о́чень уста́л.",
+      "es": "Estoy muy cansado."
+    },
+    "tags": [
+      "opiniones"
+    ],
+    "level": "A1",
+    "freq": 8,
+    "verified": false
+  },
+  {
+    "id": "w-zdes",
+    "ru": "здесь",
+    "es": [
+      "aquí"
+    ],
+    "pos": "adv",
+    "example": {
+      "ru": "Я живу́ здесь.",
+      "es": "Vivo aquí."
+    },
+    "tags": [
+      "viajes"
+    ],
+    "level": "A1",
+    "freq": 26,
+    "verified": false
+  },
+  {
+    "id": "w-mnogo",
+    "ru": "мно́го",
+    "es": [
+      "mucho"
+    ],
+    "pos": "adv",
+    "example": {
+      "ru": "У меня́ мно́го рабо́ты.",
+      "es": "Tengo mucho trabajo."
+    },
+    "tags": [
+      "compras"
+    ],
+    "level": "A1",
+    "freq": 20,
+    "verified": false
+  }
+]

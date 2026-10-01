@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light dark;
+  --safe-top: env(safe-area-inset-top);
+  --safe-bottom: env(safe-area-inset-bottom);
+}
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, system-ui, sans-serif;
+  background: #f8fafc;
+  color: #0f172a;
+  -webkit-text-size-adjust: 100%;
+  overscroll-behavior: none;
+}
+@media (prefers-color-scheme: dark) {
+  body { background: #0f172a; color: #f1f5f9; }
+}
+/* 16px+ en inputs evita el zoom automático de Safari iOS */
+input, textarea, select { font-size: 16px; }
+.ru { font-size: 2.25rem; line-height: 1.25; font-weight: 600; }
+.safe-pt { padding-top: calc(var(--safe-top) + 0.75rem); }
+.safe-pb { padding-bottom: calc(var(--safe-bottom) + 0.75rem); }

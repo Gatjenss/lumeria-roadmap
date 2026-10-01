@@ -1,0 +1,638 @@
+[
+  {
+    "id": "v-delat",
+    "inf": "де́лать",
+    "es": [
+      "hacer"
+    ],
+    "aspect": "impf",
+    "pairId": "v-sdelat",
+    "group": "1",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "де́лаю",
+      "ty": "де́лаешь",
+      "on": "де́лает",
+      "my": "де́лаем",
+      "vy": "де́лаете",
+      "oni": "де́лают"
+    },
+    "past": {
+      "m": "де́лал",
+      "f": "де́лала",
+      "n": "де́лало",
+      "pl": "де́лали"
+    },
+    "imperative": {
+      "sg": "де́лай",
+      "pl": "де́лайте"
+    },
+    "examples": [
+      {
+        "ru": "Что ты де́лаешь сего́дня?",
+        "es": "¿Qué haces hoy?"
+      }
+    ],
+    "level": "A1",
+    "freq": 10,
+    "verified": false
+  },
+  {
+    "id": "v-sdelat",
+    "inf": "сде́лать",
+    "es": [
+      "hacer (terminar)"
+    ],
+    "aspect": "pf",
+    "pairId": "v-delat",
+    "group": "1",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "сде́лаю",
+      "ty": "сде́лаешь",
+      "on": "сде́лает",
+      "my": "сде́лаем",
+      "vy": "сде́лаете",
+      "oni": "сде́лают"
+    },
+    "past": {
+      "m": "сде́лал",
+      "f": "сде́лала",
+      "n": "сде́лало",
+      "pl": "сде́лали"
+    },
+    "imperative": {
+      "sg": "сде́лай",
+      "pl": "сде́лайте"
+    },
+    "examples": [
+      {
+        "ru": "За́втра я сде́лаю дома́шнее зада́ние.",
+        "es": "Mañana haré la tarea."
+      }
+    ],
+    "level": "A1",
+    "freq": 10,
+    "verified": false
+  },
+  {
+    "id": "v-pisat",
+    "inf": "писа́ть",
+    "es": [
+      "escribir"
+    ],
+    "aspect": "impf",
+    "pairId": "v-napisat",
+    "group": "1",
+    "irregular": false,
+    "alternation": "с → ш",
+    "reflexive": false,
+    "nonPast": {
+      "ya": "пишу́",
+      "ty": "пи́шешь",
+      "on": "пи́шет",
+      "my": "пи́шем",
+      "vy": "пи́шете",
+      "oni": "пи́шут"
+    },
+    "past": {
+      "m": "писа́л",
+      "f": "писа́ла",
+      "n": "писа́ло",
+      "pl": "писа́ли"
+    },
+    "imperative": {
+      "sg": "пиши́",
+      "pl": "пиши́те"
+    },
+    "examples": [
+      {
+        "ru": "Я пишу́ письмо́ дру́гу.",
+        "es": "Escribo una carta a un amigo."
+      }
+    ],
+    "level": "A1",
+    "freq": 25,
+    "verified": false
+  },
+  {
+    "id": "v-napisat",
+    "inf": "написа́ть",
+    "es": [
+      "escribir (terminar)"
+    ],
+    "aspect": "pf",
+    "pairId": "v-pisat",
+    "group": "1",
+    "irregular": false,
+    "alternation": "с → ш",
+    "reflexive": false,
+    "nonPast": {
+      "ya": "напишу́",
+      "ty": "напи́шешь",
+      "on": "напи́шет",
+      "my": "напи́шем",
+      "vy": "напи́шете",
+      "oni": "напи́шут"
+    },
+    "past": {
+      "m": "написа́л",
+      "f": "написа́ла",
+      "n": "написа́ло",
+      "pl": "написа́ли"
+    },
+    "imperative": {
+      "sg": "напиши́",
+      "pl": "напиши́те"
+    },
+    "examples": [
+      {
+        "ru": "Я напишу́ тебе́ за́втра.",
+        "es": "Te escribiré mañana."
+      }
+    ],
+    "level": "A1",
+    "freq": 25,
+    "verified": false
+  },
+  {
+    "id": "v-chitat",
+    "inf": "чита́ть",
+    "es": [
+      "leer"
+    ],
+    "aspect": "impf",
+    "pairId": "v-prochitat",
+    "group": "1",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "чита́ю",
+      "ty": "чита́ешь",
+      "on": "чита́ет",
+      "my": "чита́ем",
+      "vy": "чита́ете",
+      "oni": "чита́ют"
+    },
+    "past": {
+      "m": "чита́л",
+      "f": "чита́ла",
+      "n": "чита́ло",
+      "pl": "чита́ли"
+    },
+    "imperative": {
+      "sg": "чита́й",
+      "pl": "чита́йте"
+    },
+    "examples": [
+      {
+        "ru": "Она́ чита́ет кни́гу.",
+        "es": "Ella lee un libro."
+      }
+    ],
+    "level": "A1",
+    "freq": 30,
+    "verified": false
+  },
+  {
+    "id": "v-prochitat",
+    "inf": "прочита́ть",
+    "es": [
+      "leer (terminar)"
+    ],
+    "aspect": "pf",
+    "pairId": "v-chitat",
+    "group": "1",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "прочита́ю",
+      "ty": "прочита́ешь",
+      "on": "прочита́ет",
+      "my": "прочита́ем",
+      "vy": "прочита́ете",
+      "oni": "прочита́ют"
+    },
+    "past": {
+      "m": "прочита́л",
+      "f": "прочита́ла",
+      "n": "прочита́ло",
+      "pl": "прочита́ли"
+    },
+    "imperative": {
+      "sg": "прочита́й",
+      "pl": "прочита́йте"
+    },
+    "examples": [
+      {
+        "ru": "Я прочита́л э́ту кни́гу за неде́лю.",
+        "es": "Leí este libro en una semana."
+      }
+    ],
+    "level": "A1",
+    "freq": 30,
+    "verified": false
+  },
+  {
+    "id": "v-pit",
+    "inf": "пить",
+    "es": [
+      "beber"
+    ],
+    "aspect": "impf",
+    "pairId": "v-vypit",
+    "group": "1",
+    "irregular": true,
+    "alternation": "ь en la raíz",
+    "reflexive": false,
+    "nonPast": {
+      "ya": "пью",
+      "ty": "пьёшь",
+      "on": "пьёт",
+      "my": "пьём",
+      "vy": "пьёте",
+      "oni": "пьют"
+    },
+    "past": {
+      "m": "пил",
+      "f": "пила́",
+      "n": "пи́ло",
+      "pl": "пи́ли"
+    },
+    "imperative": {
+      "sg": "пей",
+      "pl": "пе́йте"
+    },
+    "examples": [
+      {
+        "ru": "Я пью чай ка́ждое у́тро.",
+        "es": "Bebo té cada mañana."
+      }
+    ],
+    "level": "A1",
+    "freq": 40,
+    "verified": false
+  },
+  {
+    "id": "v-vypit",
+    "inf": "вы́пить",
+    "es": [
+      "beber (terminar)",
+      "tomarse"
+    ],
+    "aspect": "pf",
+    "pairId": "v-pit",
+    "group": "1",
+    "irregular": true,
+    "alternation": "ь en la raíz",
+    "reflexive": false,
+    "nonPast": {
+      "ya": "вы́пью",
+      "ty": "вы́пьешь",
+      "on": "вы́пьет",
+      "my": "вы́пьем",
+      "vy": "вы́пьете",
+      "oni": "вы́пьют"
+    },
+    "past": {
+      "m": "вы́пил",
+      "f": "вы́пила",
+      "n": "вы́пило",
+      "pl": "вы́пили"
+    },
+    "imperative": {
+      "sg": "вы́пей",
+      "pl": "вы́пейте"
+    },
+    "examples": [
+      {
+        "ru": "Он вы́пил ко́фе и ушёл.",
+        "es": "Se tomó el café y se fue."
+      }
+    ],
+    "level": "A1",
+    "freq": 40,
+    "verified": false
+  },
+  {
+    "id": "v-govorit",
+    "inf": "говори́ть",
+    "es": [
+      "hablar",
+      "decir"
+    ],
+    "aspect": "impf",
+    "pairId": "v-skazat",
+    "group": "2",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "говорю́",
+      "ty": "говори́шь",
+      "on": "говори́т",
+      "my": "говори́м",
+      "vy": "говори́те",
+      "oni": "говоря́т"
+    },
+    "past": {
+      "m": "говори́л",
+      "f": "говори́ла",
+      "n": "говори́ло",
+      "pl": "говори́ли"
+    },
+    "imperative": {
+      "sg": "говори́",
+      "pl": "говори́те"
+    },
+    "examples": [
+      {
+        "ru": "Он хорошо́ говори́т по-ру́сски.",
+        "es": "Él habla bien ruso."
+      }
+    ],
+    "level": "A1",
+    "freq": 8,
+    "verified": false
+  },
+  {
+    "id": "v-skazat",
+    "inf": "сказа́ть",
+    "es": [
+      "decir"
+    ],
+    "aspect": "pf",
+    "pairId": "v-govorit",
+    "group": "1",
+    "irregular": false,
+    "alternation": "з → ж",
+    "reflexive": false,
+    "nonPast": {
+      "ya": "скажу́",
+      "ty": "ска́жешь",
+      "on": "ска́жет",
+      "my": "ска́жем",
+      "vy": "ска́жете",
+      "oni": "ска́жут"
+    },
+    "past": {
+      "m": "сказа́л",
+      "f": "сказа́ла",
+      "n": "сказа́ло",
+      "pl": "сказа́ли"
+    },
+    "imperative": {
+      "sg": "скажи́",
+      "pl": "скажи́те"
+    },
+    "examples": [
+      {
+        "ru": "Скажи́те, пожа́луйста, где метро́?",
+        "es": "Dígame, por favor, ¿dónde está el metro?"
+      }
+    ],
+    "level": "A1",
+    "freq": 8,
+    "verified": false
+  },
+  {
+    "id": "v-brat",
+    "inf": "брать",
+    "es": [
+      "tomar",
+      "coger"
+    ],
+    "aspect": "impf",
+    "pairId": "v-vzyat",
+    "group": "1",
+    "irregular": true,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "беру́",
+      "ty": "берёшь",
+      "on": "берёт",
+      "my": "берём",
+      "vy": "берёте",
+      "oni": "беру́т"
+    },
+    "past": {
+      "m": "брал",
+      "f": "брала́",
+      "n": "бра́ло",
+      "pl": "бра́ли"
+    },
+    "imperative": {
+      "sg": "бери́",
+      "pl": "бери́те"
+    },
+    "examples": [
+      {
+        "ru": "Я беру́ э́ту кни́гу.",
+        "es": "Me llevo este libro."
+      }
+    ],
+    "level": "A2",
+    "freq": 60,
+    "verified": false
+  },
+  {
+    "id": "v-vzyat",
+    "inf": "взять",
+    "es": [
+      "tomar",
+      "coger"
+    ],
+    "aspect": "pf",
+    "pairId": "v-brat",
+    "group": "1",
+    "irregular": true,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "возьму́",
+      "ty": "возьмёшь",
+      "on": "возьмёт",
+      "my": "возьмём",
+      "vy": "возьмёте",
+      "oni": "возьму́т"
+    },
+    "past": {
+      "m": "взял",
+      "f": "взяла́",
+      "n": "взя́ло",
+      "pl": "взя́ли"
+    },
+    "imperative": {
+      "sg": "возьми́",
+      "pl": "возьми́те"
+    },
+    "examples": [
+      {
+        "ru": "Возьми́ мой телефо́н.",
+        "es": "Toma mi teléfono."
+      }
+    ],
+    "level": "A2",
+    "freq": 60,
+    "verified": false
+  },
+  {
+    "id": "v-smotret",
+    "inf": "смотре́ть",
+    "es": [
+      "mirar",
+      "ver"
+    ],
+    "aspect": "impf",
+    "pairId": "v-posmotret",
+    "group": "2",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "смотрю́",
+      "ty": "смо́тришь",
+      "on": "смо́трит",
+      "my": "смо́трим",
+      "vy": "смо́трите",
+      "oni": "смо́трят"
+    },
+    "past": {
+      "m": "смотре́л",
+      "f": "смотре́ла",
+      "n": "смотре́ло",
+      "pl": "смотре́ли"
+    },
+    "imperative": {
+      "sg": "смотри́",
+      "pl": "смотри́те"
+    },
+    "examples": [
+      {
+        "ru": "Мы смо́трим фильм.",
+        "es": "Estamos viendo una película."
+      }
+    ],
+    "level": "A1",
+    "freq": 35,
+    "verified": false
+  },
+  {
+    "id": "v-posmotret",
+    "inf": "посмотре́ть",
+    "es": [
+      "mirar",
+      "ver"
+    ],
+    "aspect": "pf",
+    "pairId": "v-smotret",
+    "group": "2",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "посмотрю́",
+      "ty": "посмо́тришь",
+      "on": "посмо́трит",
+      "my": "посмо́трим",
+      "vy": "посмо́трите",
+      "oni": "посмо́трят"
+    },
+    "past": {
+      "m": "посмотре́л",
+      "f": "посмотре́ла",
+      "n": "посмотре́ло",
+      "pl": "посмотре́ли"
+    },
+    "imperative": {
+      "sg": "посмотри́",
+      "pl": "посмотри́те"
+    },
+    "examples": [
+      {
+        "ru": "Посмотри́ на э́то!",
+        "es": "¡Mira esto!"
+      }
+    ],
+    "level": "A1",
+    "freq": 35,
+    "verified": false
+  },
+  {
+    "id": "v-pokupat",
+    "inf": "покупа́ть",
+    "es": [
+      "comprar"
+    ],
+    "aspect": "impf",
+    "pairId": "v-kupit",
+    "group": "1",
+    "irregular": false,
+    "reflexive": false,
+    "nonPast": {
+      "ya": "покупа́ю",
+      "ty": "покупа́ешь",
+      "on": "покупа́ет",
+      "my": "покупа́ем",
+      "vy": "покупа́ете",
+      "oni": "покупа́ют"
+    },
+    "past": {
+      "m": "покупа́л",
+      "f": "покупа́ла",
+      "n": "покупа́ло",
+      "pl": "покупа́ли"
+    },
+    "imperative": {
+      "sg": "покупа́й",
+      "pl": "покупа́йте"
+    },
+    "examples": [
+      {
+        "ru": "Я ча́сто покупа́ю хлеб здесь.",
+        "es": "Compro pan aquí a menudo."
+      }
+    ],
+    "level": "A1",
+    "freq": 50,
+    "verified": false
+  },
+  {
+    "id": "v-kupit",
+    "inf": "купи́ть",
+    "es": [
+      "comprar"
+    ],
+    "aspect": "pf",
+    "pairId": "v-pokupat",
+    "group": "2",
+    "irregular": false,
+    "alternation": "п → пл",
+    "reflexive": false,
+    "nonPast": {
+      "ya": "куплю́",
+      "ty": "ку́пишь",
+      "on": "ку́пит",
+      "my": "ку́пим",
+      "vy": "ку́пите",
+      "oni": "ку́пят"
+    },
+    "past": {
+      "m": "купи́л",
+      "f": "купи́ла",
+      "n": "купи́ло",
+      "pl": "купи́ли"
+    },
+    "imperative": {
+      "sg": "купи́",
+      "pl": "купи́те"
+    },
+    "examples": [
+      {
+        "ru": "Я куплю́ молоко́ за́втра.",
+        "es": "Compraré leche mañana."
+      }
+    ],
+    "level": "A1",
+    "freq": 50,
+    "verified": false
+  }
+]
